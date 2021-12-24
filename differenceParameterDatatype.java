@@ -12,7 +12,7 @@ public class differenceParameterDatatype{
         // 참조 자료형 매개변숫값의 변화
         int[] array = new int[] {1,2,3};
         modifyData(array);
-        printArray(array);
+        printArray(array); // [4, 5, 6]
     }
     public static int twice(int a){
         a *= 2;
