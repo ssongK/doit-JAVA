@@ -1,4 +1,3 @@
-
 class B{
     // 리턴 타입 void, 입력매개변수 없음
     void print(){
